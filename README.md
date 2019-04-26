@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+No alien here. Just a data scientist learning new tools!
